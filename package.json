@@ -5,7 +5,7 @@
     "main": "server.js",
     "scripts": {
         "start": "nodemon server.js --ignore client",
-        "server": "nodemon server.js --ignore client"
+        "start:server": "nodemon server.js --ignore client" // Add this line if you intend to use it
     },
     "keywords": [],
     "author": "",
