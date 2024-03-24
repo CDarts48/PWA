@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
-    "start": "webpack --watch"
+    "start": "node server.js"
   },
   "author": "Corey Donahue",
   "license": "Apache-2.0",
