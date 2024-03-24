@@ -26,5 +26,8 @@
         "sass-loader": "^14.1.1",
         "style-loader": "^3.3.4",
         "workbox-cli": "^7.0.0"
+    },
+    "engines": {
+        "node": "20.10.0"
     }
 }
